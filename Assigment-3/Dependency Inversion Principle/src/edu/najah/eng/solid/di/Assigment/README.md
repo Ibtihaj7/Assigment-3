@@ -9,7 +9,6 @@ now high-level module & low-level modules depend on abstractions as they should.
 
 **class diagram :**
 
-![](../../../../../../../../../../../../var/folders/d4/67_v01g547lcq27l5h8rdxr40000gn/T/TemporaryItems/NSIRD_screencaptureui_5jjvUW/Screen Shot 2022-10-18 at 13.46.35.png)
 
 
-
+<img width="653" alt="Screen Shot 2022-10-19 at 0 05 46" src="https://user-images.githubusercontent.com/92644947/196544765-6552a91e-d4f2-490e-bd07-2b561a232f63.png">
