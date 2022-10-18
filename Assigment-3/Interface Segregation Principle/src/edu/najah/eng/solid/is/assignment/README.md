@@ -12,8 +12,7 @@ in the bird class contain all common function(molt) and include object of interf
 <br/>
 
 **class diagram**
-![](../../../../../../../../../../../../var/folders/d4/67_v01g547lcq27l5h8rdxr40000gn/T/TemporaryItems/NSIRD_screencaptureui_bvO3sO/Screen Shot 2022-10-18 at 22.07.46.png)
-<br/>
 
 
+![Uploading Screen Shot 2022-10-19 at 0.07.18.png…]()
 
