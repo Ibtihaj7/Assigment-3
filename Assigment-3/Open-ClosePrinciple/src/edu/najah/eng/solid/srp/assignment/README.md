@@ -6,4 +6,4 @@ but in the code every function in the Calculator class does not fulfill the cond
 
 ***class digram***
 
-![](../../../../../../../../../../../../var/folders/d4/67_v01g547lcq27l5h8rdxr40000gn/T/TemporaryItems/NSIRD_screencaptureui_7sIexW/Screen Shot 2022-10-18 at 22.26.15.png)
+<img width="684" alt="Screen Shot 2022-10-19 at 0 10 48" src="https://user-images.githubusercontent.com/92644947/196545641-4e752252-8d85-47aa-bda0-a3f86ec1e56b.png">
