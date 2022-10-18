@@ -11,4 +11,5 @@ and MailMessage class alse contain functions doing different thing so i create v
 
 **class diagram**
 
-![](../../../../../../../../../../../../var/folders/d4/67_v01g547lcq27l5h8rdxr40000gn/T/TemporaryItems/NSIRD_screencaptureui_WciENP/Screen Shot 2022-10-18 at 22.44.56.png)
+
+<img width="709" alt="Screen Shot 2022-10-19 at 0 11 34" src="https://user-images.githubusercontent.com/92644947/196545778-1dfc9abf-258d-456c-b856-b3e07e1e1d6a.png">
