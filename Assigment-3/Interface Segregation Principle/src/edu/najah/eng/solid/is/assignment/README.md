@@ -14,5 +14,5 @@ in the bird class contain all common function(molt) and include object of interf
 **class diagram**
 
 
-![Uploading Screen Shot 2022-10-19 at 0.07.18.png…]()
 
+![Uploading Screen Shot 2022-10-19 at 0.08.12.png…]()
