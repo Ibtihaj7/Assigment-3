@@ -10,4 +10,6 @@ so i create a general class to extend it from Customer and LimitedCustomer ,This
 
 **class diagram**
 
-![](../../../../../../../../../../../../var/folders/d4/67_v01g547lcq27l5h8rdxr40000gn/T/TemporaryItems/NSIRD_screencaptureui_k3vriD/Screen Shot 2022-10-18 at 22.08.40.png)
+
+![Uploading Screen Shot 2022-10-19 at 0.09.16.png…]()
+
