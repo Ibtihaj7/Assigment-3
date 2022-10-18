@@ -11,5 +11,5 @@ so i create a general class to extend it from Customer and LimitedCustomer ,This
 **class diagram**
 
 
-![Uploading Screen Shot 2022-10-19 at 0.09.16.png…]()
 
+<img width="665" alt="Screen Shot 2022-10-19 at 0 16 02" src="https://user-images.githubusercontent.com/92644947/196546442-b7d84bd9-1826-4f32-bec3-c6cf3ea86a10.png">
