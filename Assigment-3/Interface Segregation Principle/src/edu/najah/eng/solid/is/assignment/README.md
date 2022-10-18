@@ -13,5 +13,6 @@ in the bird class contain all common function(molt) and include object of interf
 
 **class diagram**
 
-![Uploading Screen Shot 2022-10-19 at 0.12.50.png…]()
+<img width="620" alt="Screen Shot 2022-10-19 at 0 15 06" src="https://user-images.githubusercontent.com/92644947/196546335-3ff7db76-689b-4f7a-a361-0d00336957ae.png">
+
 
